@@ -33,5 +33,5 @@ To run this project locally:
 
 1. Clone the repo  
    ```bash
-   [git clone https://github.com/your-username/your-repo-name.git
-](https://github.com/srinidhi-mohan3176)
+   https://github.com/srinidhi-mohan3176
+
